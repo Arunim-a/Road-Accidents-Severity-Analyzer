@@ -75,9 +75,9 @@ Performed multiple visualizations:
 
 ## 📈 Model Performance
 
-* **R² Score:** (your value here)
-* **MAE:** (your value here)
-* **MSE:** (your value here)
+* **R² Score:** 0.758
+* **MAE:**2,551
+* **MSE:** 11,411,362 
 
 ---
 
