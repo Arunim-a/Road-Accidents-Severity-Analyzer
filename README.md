@@ -131,5 +131,5 @@ road-accident-severity-analyzer/
 
 ## 👨‍💻 Author
 
-**Aru (B.Tech CSE - Data Analytics)**
+**Arunima Pant (B.Tech Computer science engineering- Data Analytics)**
 Lovely Professional University
