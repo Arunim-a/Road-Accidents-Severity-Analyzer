@@ -1,12 +1,12 @@
-# 🚧 Road Accident Severity Analyzer
+#  Road Accident Severity Analyzer
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents a data-driven analysis of road accident data to understand patterns in accident severity, identify high-risk regions, and analyze factors contributing to fatalities and injuries. The goal is to extract meaningful insights and build a predictive model for accident impact.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze road accident data across regions and years
 * Identify high-risk states and conditions
@@ -16,7 +16,7 @@ This project presents a data-driven analysis of road accident data to understand
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 
 * Removed duplicate records
 * Handled missing values using appropriate techniques
@@ -29,22 +29,22 @@ This project presents a data-driven analysis of road accident data to understand
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 Performed multiple visualizations:
 
-* 📈 Year-wise trend of accidents, injuries, and deaths
-* 📊 Top 10 states with highest accidents
-* 🥧 Pie chart of major accident causes
-* 🌦️ Weather condition analysis
-* 🌙 Light condition analysis (day/night)
-* 🔥 Correlation heatmap
-* 🔗 Pairplot for feature relationships
-* 📦 Boxplot to detect outliers
+*  Year-wise trend of accidents, injuries, and deaths
+*  Top 10 states with highest accidents
+*  Pie chart of major accident causes
+*  Weather condition analysis
+*  Light condition analysis (day/night)
+*  Correlation heatmap
+*  Pairplot for feature relationships
+*  Boxplot to detect outliers
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * Certain states consistently report higher accident rates
 * Strong correlation between total accidents and injuries
@@ -54,7 +54,7 @@ Performed multiple visualizations:
 
 ---
 
-## 🤖 Machine Learning Model
+## Machine Learning Model
 
 **Model Used:** Linear Regression
 
@@ -73,7 +73,7 @@ Performed multiple visualizations:
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 * **R² Score:** 0.758
 * **MAE:**2,551
@@ -81,7 +81,7 @@ Performed multiple visualizations:
 
 ---
 
-## 📚 Learnings
+## Learnings
 
 * Real-world datasets require proper cleaning
 * Visualization helps uncover hidden patterns
@@ -90,7 +90,7 @@ Performed multiple visualizations:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * Limited features used for prediction
 * Dataset may not include all real-world factors
@@ -98,7 +98,7 @@ Performed multiple visualizations:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Use advanced ML models (Random Forest, XGBoost)
 * Include more features (road type, driver behavior, etc.)
@@ -107,7 +107,7 @@ Performed multiple visualizations:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Python
 * Pandas
@@ -118,7 +118,7 @@ Performed multiple visualizations:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 road-accident-severity-analyzer/
 │
@@ -129,7 +129,7 @@ road-accident-severity-analyzer/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Arunima Pant (B.Tech Computer science engineering- Data Analytics)**
 Lovely Professional University
